@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Malini-AI
+- 👋 Hi, I’m @Malini Anbazhagan
 - 👀 I’m interested in Data Science and Analytics, Data mining, Data visualization, Image processing, Web scraping and many more
-- 🌱 I’m currently learning about GANS
 - 📫 To reach me, mail me at malinisai13@gmail.com
 
 <!---
